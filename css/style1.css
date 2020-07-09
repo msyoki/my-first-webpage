@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+h1 {
+    background-color: rgb(51, 161, 51);
+    color: white;
+    text-align: center;   
+}
+h2 {
+    color: rgb(51, 161, 51);
+}
+.images-of-fav-things {
+    background-color: white;
+    padding: 20px;
+}
+
+ol {
+    background-color:red;
+    color: white;
+    font-weight: bold;
+}
+
+a{
+    color: red;
+    font-size: medium;
+}
